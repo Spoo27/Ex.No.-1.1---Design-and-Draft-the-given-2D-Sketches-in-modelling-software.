@@ -1,3 +1,6 @@
+## Name : Spoorthi V
+## Reg no: 212224230271
+
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
