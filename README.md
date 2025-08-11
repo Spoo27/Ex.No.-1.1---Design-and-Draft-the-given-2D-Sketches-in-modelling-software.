@@ -43,6 +43,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 
+[Spoorthi ex 1.1 edm.pdf](https://github.com/user-attachments/files/21709840/Spoorthi.ex.1.1.edm.pdf)
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
